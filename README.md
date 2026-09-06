@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Kathryn Enriquez Personal Website
+# Kathryn Enriquez - Personal Website
 
 ## Contact Me
 
